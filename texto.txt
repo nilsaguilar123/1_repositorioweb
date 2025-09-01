@@ -3,5 +3,3 @@ Hola muchachos!!!
 
 Estamos en clase de Prog Web III
 ESTO ES UNA PRUEBA DE GIT
-
-Se adiciona otra linea de texto
